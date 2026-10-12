@@ -1,6 +1,7 @@
 
+
 <div style="width: 100%; height: 250px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
-  <img src="https://github.com" style="width: 100%; height: auto; min-height: 100%;" alt="Minecraft Soothing Scenes">
+  <img src="https://github.com/user-attachments/assets/a775bb8c-cd98-4b3e-bbf5-f2b94ae4dc9f" style="width: 100%; height: auto; min-height: 100%;" alt="Minecraft Soothing Scenes">
 </div>
 
 
