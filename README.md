@@ -1,7 +1,8 @@
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/92659f6f-7130-40d9-abdc-428f083d65af" alt="Minecraft Soothing Scenes" width="100%" />
-</p>
+<div style="width: 100%; height: 250px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+  <img src="https://github.com" style="width: 100%; height: auto; min-height: 100%;" alt="Minecraft Soothing Scenes">
+</div>
+
 
 
 
