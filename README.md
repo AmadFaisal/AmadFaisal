@@ -1,12 +1,9 @@
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=58YjsK8NYPE">
-    <img
-      src="https://img.youtube.com/vi/58YjsK8NYPE/maxresdefault.jpg"
-      width="100%"
-      alt="Minecraft Cozy Rain Ambience"
-    />
-  </a>
-</p>
+
+
+<img width="400" height="225" alt="vidssave comMinecraftSoothingScenesRelaxingFireplace720P-ezgif com-optimize" src="https://github.com/user-attachments/assets/876a2766-c0d5-4afb-b81d-8132025acf8c" />
+
+
+
 
 # Hi 👋, I'm Ahmad Faisal
 
