@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=58YjsK8NYPE">
+    <img
+      src="https://img.youtube.com/vi/58YjsK8NYPE/maxresdefault.jpg"
+      width="100%"
+      alt="Minecraft Cozy Rain Ambience"
+    />
+  </a>
+</p>
+
 # Hi 👋, I'm Ahmad Faisal
 
 ### 💻 A Passionate Developer from Indonesia
