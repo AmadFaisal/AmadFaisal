@@ -1,6 +1,6 @@
 
 
-<img width="400" height="225" alt="vidssave comMinecraftSoothingScenesRelaxingFireplace720P-ezgif com-optimize" src="https://github.com/user-attachments/assets/876a2766-c0d5-4afb-b81d-8132025acf8c" />
+<img width="900" height="225" alt="vidssave comMinecraftSoothingScenesRelaxingFireplace720P-ezgif com-optimize" src="https://github.com/user-attachments/assets/876a2766-c0d5-4afb-b81d-8132025acf8c" />
 
 
 
