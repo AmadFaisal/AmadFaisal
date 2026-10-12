@@ -3,7 +3,7 @@
 <h1>Hi 👋, I'm Ahmad Faisal</h1>
 <h3>A passionate developer from Indonesia</h3>
 
-<img src="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil" align="right" width="220" alt="Programmer GIF">
+<iframe src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-faisal&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-faisal" /> </p>
 
