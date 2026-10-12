@@ -1,6 +1,9 @@
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/92659f6f-7130-40d9-abdc-428f083d65af" alt="Minecraft Soothing Scenes" width="100%" />
+</p>
 
-<img width="900" height="225" alt="vidssave comMinecraftSoothingScenesRelaxingFireplace720P-ezgif com-optimize" src="https://github.com/user-attachments/assets/876a2766-c0d5-4afb-b81d-8132025acf8c" />
+
 
 
 
